@@ -10,11 +10,12 @@ Microsoft Office Standard | 13.2
 PdfCreator                | 1.42
 2. Liste des GPO
 ------
-[Mappage des lecteurs réseaux](./Gpo/Mappage_reseaux.txt)
+[Mappage des lecteurs rÃ©seaux](./Gpo/Mappage_reseaux.txt)
 
 3. Divers
 ----------
 - *Ici le divers*
+- *Ici la suite
 
 4. Toto
 -------
