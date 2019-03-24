@@ -1,0 +1,6 @@
+Windows 10 V 1.0.2
+http://www.google.fr
+C:/Temp/Custom.txt
+\\srvbur\gsit\toto.txt
+Capture.PNG
+D:\utilisateurs\jmdavid\Documents\Master\Capture.PNG
