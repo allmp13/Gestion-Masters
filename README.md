@@ -8,6 +8,7 @@ Nom Logiciel | Version
 7Zip                      | 8.2
 Microsoft Office Standard | 13.2
 PdfCreator                | 1.42
+Sketchup Pro              | 3.12
 2. Liste des GPO
 ------
 [Mappage des lecteurs réseaux](./Gpo/Mappage_reseaux.txt)
