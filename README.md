@@ -15,7 +15,7 @@ PdfCreator                | 1.42
 3. Divers
 ----------
 - *Ici le divers*
-- *Ici la suite
+- *Ici la suite*
 
 4. Toto
 -------
