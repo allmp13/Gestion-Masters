@@ -13,8 +13,9 @@ PdfCreator                | 1.42
 [Mappage des lecteurs réseaux](./Gpo/Mappage_reseaux.txt)
 
 3. Divers
-----
-Ici le divers
+----------
+- *Ici le divers*
+
 4. Toto
 -------
 ![alt](./images/Capture.PNG)
