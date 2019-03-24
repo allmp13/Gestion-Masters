@@ -16,4 +16,4 @@ PdfCreator                | 1.42
 ----
 4. Toto
 -------
-![alt](./images\Capture.PNG)
+![alt](./images/Capture.PNG)
