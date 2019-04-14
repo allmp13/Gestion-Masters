@@ -8,12 +8,12 @@ Nom Logiciel | Version
 7Zip                        | 8.2
 Acrobat Reader              | 5.3
 Microsoft Office Standard   | 13.2
-PdfCreator                  | 1.42|
+PdfCreator                  | 1.42
 Sketchup Pro                | 3.12
 
 2. Liste des GPO
 ------
-[Mappage des lecteurs rÃ©seaux](./Gpo/Mappage_reseaux.txt)
+[Mappage des lecteurs réseaux](./Gpo/Mappage_reseaux.txt)
 
 3. Divers
 ----------
