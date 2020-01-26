@@ -13,7 +13,9 @@ Sketchup Pro                | 3.12
 
 2. Liste des GPO
 ------
-[Mappage des lecteurs réseaux](./Gpo/Mappage_reseaux.txt)
+[Mappage des lecteurs réseaux](Gpo\Mappage_reseaux.txt)
+
+[Test](./test.md)
 
 3. Divers
 ----------
